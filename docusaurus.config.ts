@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://dev.rodrigohub.com',
 
   baseUrl: '/',
 
@@ -51,8 +51,8 @@ const config: Config = {
         src: 'img/favicon.png',
       },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/showcase', label: 'Portifolio', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/showcase', label: 'Portifolio', position: 'left' },
         {
           href: 'https://github.com/Oosasukel/dev-hub',
           label: 'GitHub',

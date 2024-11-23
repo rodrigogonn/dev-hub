@@ -73,6 +73,8 @@ O **Single Table Design** (STD) é uma abordagem onde **todos os dados** de um s
 
 ## Consultas no DynamoDB
 
+Exemplos com javascript
+
 ### 1. Listar posts de um autor
 
 Queremos buscar todos os itens da tabela que começam com `post#` na SK para o autor `author#rodrigo`.

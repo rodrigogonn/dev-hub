@@ -1,0 +1,8 @@
+dynamodb:
+  description: Tudo sobre o banco de dados DynamoDB da AWS
+no-sql:
+  description: Bancos de dados não relacionais para alta performance
+aws:
+  description: Serviços de computação em nuvem da Amazon
+single-table-design:
+  description: Estratégia de modelagem para tabelas no DynamoDB

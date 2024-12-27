@@ -54,7 +54,7 @@ const config: Config = {
         { to: '/blog', label: 'Blog', position: 'left' },
         { to: '/showcase', label: 'Portifolio', position: 'left' },
         {
-          href: 'https://github.com/Oosasukel/dev-hub',
+          href: 'https://github.com/rodrigogonn/dev-hub',
           label: 'GitHub',
           position: 'right',
         },
